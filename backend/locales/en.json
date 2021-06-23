@@ -1,0 +1,10 @@
+{
+	"LOGIN_SUCCESS": "Login successfully done.",
+	"PASSWORD_NOT_MATCH": "Password does not match.",
+	"NO_SUCH_USER_FOUND": "No such user found.",
+	"USER_NOT_FOUND": "User does not exist.",
+	"INVALID_PAYLOAD": "Invalid payload.",
+	"TODO_SAVE_SUCCESS": "Todo saved successfully.",
+	"TODO_LIST_SUCCESS": "Todo list successfully.",
+	"TODO_DELETE_SUCCESS": "Deleted todo successfully."
+}

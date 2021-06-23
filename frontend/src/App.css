@@ -1,0 +1,68 @@
+@import "~antd/dist/antd.css";
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ant-form-item-control-input-content button {
+  margin-right: 15px;
+}
+
+.link-effect {
+  color: #61dafb;
+  cursor: pointer;
+}
+
+.todo-list-header {
+  color: #61dafb;
+}
+
+.todo-list-header button {
+  float: right;
+}
+
+.header-cont {
+  padding: 16px;
+}
+
+.header-cont button {
+  float: right;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.login-cont {
+  padding: 50px;
+}
